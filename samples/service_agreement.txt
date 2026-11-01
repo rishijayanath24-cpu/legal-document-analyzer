@@ -1,0 +1,37 @@
+SERVICE  AGREEMENT
+
+This Service Agreement (the “Agreement”) is made on 01-07-2026 between ABC Technologies Pvt. Ltd., a company registered in Coimbatore, Tamil Nadu (the “Client”), and XYZ Solutions LLP, a firm located in Chennai, Tamil Nadu (the “Service Provider”).
+
+1. PURPOSE
+The Service Provider will design, develop and deliver custom software for the Client’s inventory management system, as described in the project specification attached to this Agreement.
+
+2. TERM
+This Agreement starts on 01-07-2026 and continues for 12 months, ending on 30-06-2027, unless it is terminated earlier under Clause 6 or extended in writing by both parties.
+
+3. OBLIGATIONS OF THE SERVICE PROVIDER
+3.1 The Service Provider shall deliver the software in accordance with the agreed specification and milestone schedule.
+3.2 The Service Provider shall provide bug-fix support for 90 days after the final delivery.
+
+4. OBLIGATIONS OF THE CLIENT
+4.1 The Client shall provide timely access to the information, systems and personnel required for the project.
+4.2 The Client shall review each milestone within 7 days of delivery.
+
+5. PAYMENT
+The Client shall pay the Service Provider ₹50,000 per month. Invoices are raised on the 1st of every month and must be paid within 15 days of the invoice date. Late payments attract interest of 1.5% per month.
+
+6. TERMINATION
+Either party may terminate this Agreement by giving 30 days’ written notice to the other party. Either party may terminate immediately if the other party commits a material breach and fails to correct it within 10 days of written notice.
+
+7. CONFIDENTIALITY
+Each party shall keep the other party’s confidential information strictly private, shall use it only for the purposes of this Agreement and shall not disclose it to any third party without prior written consent. This obligation continues for 3 years after the Agreement ends.
+
+8. INTELLECTUAL PROPERTY
+All software and materials created specifically for the Client under this Agreement shall be owned by the Client once full payment has been received.
+
+9. LIABILITY
+The Service Provider’s total liability under this Agreement shall not exceed the fees paid in the 3 months before the claim arose.
+
+10. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement is governed by the laws of India. Disputes shall first be discussed in good faith and, if unresolved within 30 days, referred to arbitration in Coimbatore, Tamil Nadu.
+
+Page 1 of 1
